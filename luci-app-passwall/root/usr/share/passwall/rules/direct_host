@@ -1,9 +1,10 @@
+cn
 apple.com
 microsoft.com
 dyndns.com
 douyucdn.cn
 douyucdn2.cn
-gh.cooluc.com
+location.services.mozilla.com
 
 #steam
 steamcontent.com
@@ -18,6 +19,13 @@ cdn-qc.content.steamchina.com
 cdn-ali.content.steamchina.com
 epicgames-download1-1251447533.file.myqcloud.com
 
+#DoT/DoH
+dns.alidns.com
+doh.pub
+dot.pub
+doh.360.cn
+dot.360.cn
+
 # Synology ddns
 account.synology.com
 checkip.dyndns.org
@@ -26,3 +34,11 @@ checkipv6.dyndns.org
 checkipv6.synology.com
 checkport.synology.com
 ddns.synology.com
+
+# google
+dl.google.com
+
+# github proxy
+gh-proxy.com
+gitmirror.com
+ghfast.top
